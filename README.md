@@ -6,9 +6,8 @@ Singh, Kanishka Raj, Qiang Shen, and Sze Zheng Yong. "Mesh-based affine abstract
 
 ## List of capabilities: 
 - Solve a linear program (LP) recursively to obtain desired abstration of nonlinear systems in whole domain
-   - Two examples $y=x\cos(\theta)$ and $y=x\sin(\theta)$
- - Compare with previous work 
-   - 
+- Compare with previous work 
+  - Alimguzhin, Vadim, et al. "Linearizing discrete-time hybrid systems." IEEE Transactions on Automatic Control 62.10 (2017): 5357-5364.
 
 ## Requirements
 
