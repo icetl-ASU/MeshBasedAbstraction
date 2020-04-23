@@ -1,13 +1,8 @@
 # Mesh-based affine abstraction of nonlinear systems with tighter bounds
 
-This is the code of Mesh-based affine abstraction of nonlinear systems with tighter bounds. Please refer to the reference: 
+This is the code of Mesh-based affine abstraction of nonlinear systems with tighter bounds. Check the MBA.pdf for detailed description. Paper can be cited by following: 
 
 Singh, Kanishka Raj, Qiang Shen, and Sze Zheng Yong. "Mesh-based affine abstraction of nonlinear systems with tighter bounds." 2018 IEEE Conference on Decision and Control (CDC). IEEE, 2018.
-
-## List of capabilities: 
-- Solve a linear program (LP) recursively to obtain desired abstration of nonlinear systems in whole domain
-- Compare with previous work 
-  - Alimguzhin, Vadim, et al. "Linearizing discrete-time hybrid systems." IEEE Transactions on Automatic Control 62.10 (2017): 5357-5364.
 
 ## Requirements
 
